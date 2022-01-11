@@ -1,0 +1,15 @@
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\bin\Debug\net6.0\Basiclearning.exe
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\bin\Debug\net6.0\Basiclearning.deps.json
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\bin\Debug\net6.0\Basiclearning.runtimeconfig.json
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\bin\Debug\net6.0\Basiclearning.dll
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\bin\Debug\net6.0\ref\Basiclearning.dll
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\bin\Debug\net6.0\Basiclearning.pdb
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\obj\Debug\net6.0\Basiclearning.csproj.AssemblyReference.cache
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\obj\Debug\net6.0\Basiclearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\obj\Debug\net6.0\Basiclearning.AssemblyInfoInputs.cache
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\obj\Debug\net6.0\Basiclearning.AssemblyInfo.cs
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\obj\Debug\net6.0\Basiclearning.csproj.CoreCompileInputs.cache
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\obj\Debug\net6.0\Basiclearning.dll
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\obj\Debug\net6.0\ref\Basiclearning.dll
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\obj\Debug\net6.0\Basiclearning.pdb
+C:\Users\harsh jangid\Desktop\.Net\Basiclearning\obj\Debug\net6.0\Basiclearning.genruntimeconfig.cache
