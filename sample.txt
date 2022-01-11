@@ -1,0 +1,5 @@
+requirement:
+
+.net core
+vscode
+C# runner extension
